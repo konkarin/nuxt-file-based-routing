@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// @ts-ignore
+// @ts-expect-error virtual file
 import sample from "#build/sample"; // created by modules/sample.ts
 </script>
 
